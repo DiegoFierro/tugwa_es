@@ -2,6 +2,7 @@
 layout: page
 title: Gramática
 permalink: gramatica/
+menu: main
 ---
 
 # Tugwá: presentación, gramática y vocabulario
