@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Préstamos lingüísticos
 
 El tugwá tiende a construir conceptos desde dentro, utilizando sus propias raíces y afijos. Las palabras que introducen nuevos conceptos también se construyen de esta manera, por ejemplo, **igarusú** (barco) a partir de **igara** (canoa) y el sufijo aumentativo **-usú**, o **ñe'embukú** (teléfono) mediante la combinación de **ñe'enga** (habla, comunicación) y **pukú** (largo, distante).
