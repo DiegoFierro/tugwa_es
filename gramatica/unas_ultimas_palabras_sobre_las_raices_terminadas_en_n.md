@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 # Unas últimas palabras sobre las raíces terminadas en -n
