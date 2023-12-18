@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Unas últimas palabras sobre las raíces terminadas en -n
 
 Como ya se ha dicho, el tugwá marca sus vocales nasalizadas añadiéndoles una **-n**. En la mayoría de los casos, las raíces terminadas en una vocal nasalizada (**-an**, **-en**, **-in**, **-on**, **-un**) se comportan como raíces vocálicas y, por lo tanto, están sujetas a las mismas reglas que las raíces terminadas en una vocal oral (**-á**, **-é**, **-í**, **-ó**, **-ú**). Es así cuando la raíz se compone con cualquier otra raíz que empiece por vocal (incluida la raíz marcadora del plural **etá** y los sufijos negativos **-i** y **-e'im**) o recibe los sufijos **-saba** y **-sara**. Por ejemplo, **ma'en** (mirar) se convierte en **n'ama'eni** (no miro), **mima'enetá** (vistas), **ma'ensaba** (mirador), **ma'ensara** (espectador). En consecuencia, el sufijo de pretérito utilizado aquí es **-gwera**: **mima'engwera** (una vista anterior).
