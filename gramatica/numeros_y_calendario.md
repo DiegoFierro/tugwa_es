@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Números y calendario
 
 Originalmente, las lenguas tupí-guaraní sólo tenían cuatro palabras numéricas. Los números superiores a cuatro se expresaban mediante una palabra común utilizada en sentido metafórico. El tugwá utiliza un sistema similar, pero emplea palabras acuñadas en guaraní para los números superiores y un sistema artificial para los millones y más.
