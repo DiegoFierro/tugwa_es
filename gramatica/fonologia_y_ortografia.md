@@ -1,6 +1,3 @@
----
-layout: page
----
 # Fonología y ortografía
 Todas las raíces del tugwá son orales o nasales. Una raíz oral es aquella que no tiene ningún sonido nasal, como **pira** (piel), **akub** (caliente) y **su'u** (morder). Una raíz que contiene cualquier sonido nasal, sin importar dónde, es una raíz nasal. Es el caso de **moya** (serpiente), **una** (negro) y **koña** (gemelo), todas ellas con al menos un sonido nasal. Aprender esta distinción es importante, ya que algunos afijos se ven afectados por la nasalidad o incluso la desencadenan sobre la raíz, produciendo mutaciones iniciales.
 
