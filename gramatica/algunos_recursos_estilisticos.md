@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Algunos recursos estilísticos
 
 De manera informal y en estilo musical y poético, se pueden emplear algunos rasgos opcionales más. Todos ellos han sido tomados de las lenguas naturales tupí-guaraní, pero no fueron adoptados en la gramática regular del tugwá para que no se hiciera más difícil de lo necesario.
