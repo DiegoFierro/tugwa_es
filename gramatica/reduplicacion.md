@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Reduplicación
 
 El verbo **perek** significa saltar, y **pererek** significa seguir saltando. Hacer algo repetidamente se expresa en tugwá reduplicando una parte (el inicio y la vocal, no la coda) de la sílaba final de la raíz. La palabra resultante puede ser un predicado o un argumento: el sustantivo **yu'iperereka** significa rana, un anfibio (**yu'i**) que, como su nombre indica, no para de saltar. Otros ejemplos son **tikir** (dejar caer) y **tikikir** (gotear), de donde obtenemos **tikikisaba** (destilería); así como **sok** (golpear) y **sosok** (aplastar), de donde obtenemos **sosokaba** (mortero).
