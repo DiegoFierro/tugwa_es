@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # El estado constructo
 
 En las lenguas tupí-guaraní, algunas raíces sufren un tipo especial de inflexión y pueden tener hasta cuatro formas diferentes. Los estudiosos brasileños las denominan _pluriformes_ y los paraguayos _oscilantes_. La mayoría de las raíces afectadas comienzan con una vocal y reciben hasta tres consonantes diferentes conocidas como "prefijos relacionales".
