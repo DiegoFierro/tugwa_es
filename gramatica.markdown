@@ -21,12 +21,12 @@ _**Tugwá tupí-gwaraní abañe'embiteramo. Mosapir Ñembiamerika ñe'enga i gwi
 Tugwá funciona como una interlingua tupí-guaraní. Se basa en tres lenguas sudamericanas: El tupí antiguo de la costa brasileña, el nheengatu amazónico y el guaraní paraguayo.
 
 ## Contenido
-* [Descripción general de la subfamilia tupí-guaraní](/gramatica/descripcion_general_de_la_subfamilia_tupi_guarani.md)
-* [Descripción general de la gramática del tugwá](/gramatica/descripcion_general_de_la_gramatica_del_tugwa.md)
-* [Fonología y ortografía](/gramatica/fonologia_y_ortografia.md)
+* [Descripción general de la subfamilia tupí-guaraní](gramatica/descripcion_general_de_la_subfamilia_tupi_guarani.md)
+* [Descripción general de la gramática del tugwá](gramatica/descripcion_general_de_la_gramatica_del_tugwa.md)
+* [Fonología y ortografía](gramatica/fonologia_y_ortografia.md)
 * [Sobre los argumentos: los sustantivos y las palabras que los acompañan](/gramatica/sobre_los_argumentos_los_sustantivos_y_las_palabras_que_los_acompanan.md)
-* [Mutación inicial](/gramatica/mutacion_inicial.md)
-* [Posposiciones](/gramatica/posposiciones.md)
+* [Mutación inicial](gramatica/mutacion_inicial.md)
+* [Posposiciones](gramatica/posposiciones.md)
 * [Pronombres personales y posesivos](/gramatica/pronombres_personales_y_posesivos.md)
 * [Sobre los predicados: verbos y cláusulas en tugwá](/gramatica/sobre_los_predicados_verbos_y_clausulas_en_tugwa.md)
 * [Todo lo que podemos hacer con los verbos](/gramatica/todo_lo_que_podemos_hacer_con_los_verbos.md)
