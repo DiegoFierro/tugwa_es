@@ -1,7 +1,6 @@
 ---
 layout: page
 # title: Donaciones
-# permalink: donaciones/
 menu: main
 ---
 
