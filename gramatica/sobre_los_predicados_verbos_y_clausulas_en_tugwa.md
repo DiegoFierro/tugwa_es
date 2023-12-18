@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 # Sobre los predicados: verbos y cláusulas en tugwá
