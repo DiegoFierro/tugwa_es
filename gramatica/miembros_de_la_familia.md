@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 # Miembros de la familia
