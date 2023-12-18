@@ -1,8 +1,3 @@
----
-layout: page
----
-
-
 # Descripción general de la subfamilia tupí-guaraní
 
 La familia lingüística tupí cuenta con una decena de ramas. La más conocida y estudiada es la rama tupí-guaraní, que se hablaba desde el actual Paraguay hasta el estado de Ceará, en el noreste de Brasil, a lo largo de toda la costa atlántica, en la época en que los primeros navegantes europeos llegaron a Sudamérica. Las lenguas más conocidas de la subfamilia tupí-guaraní que se hablan actualmente son el avañe'ẽ y el nheengatu.
