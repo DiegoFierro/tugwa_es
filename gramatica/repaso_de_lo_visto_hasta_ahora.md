@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 # Repaso de lo visto hasta ahora
