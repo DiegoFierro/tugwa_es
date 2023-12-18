@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Pronombres personales y posesivos 
 
 <table style="align: center;">
