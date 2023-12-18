@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Verbos auxiliares e irregulares
 
 **Ikó** puede seguir utilizándose como verbo auxiliar para el aspecto continuo, igual que en español. Pero hay una diferencia en el uso, ya que se conjugan tanto el verbo principal como el **ikó**: **agwatá aikó** (estoy caminando), **eresem ereikó** (te estás yendo), **osem oikó** (él o ella se está yendo) y así sucesivamente.
