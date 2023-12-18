@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 # Sustantivos verbales y oraciones dependientes
