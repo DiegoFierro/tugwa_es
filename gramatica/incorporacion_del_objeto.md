@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Incorporación del objeto
 
 En primer lugar, permítanme aclarar que la incorporación no es obligatoria en tugwá, excepto cuando se utiliza para formar verbos compuestos. Pero es una característica curiosa de las lenguas tupí-guaraní, una que nos ayuda a entender cómo funcionan las lenguas polisintéticas, así que decidí hacerla posible en tugwá, aunque fuera como un recurso opcional a utilizar sólo en el lenguaje de alto estilo.
