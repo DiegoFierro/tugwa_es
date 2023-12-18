@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Todo lo que podemos hacer con los verbos
 
 Ahora que ya sabes todo lo básico sobre los verbos, pasemos a nuevas posibilidades de expresión utilizando las raíces verbales.
