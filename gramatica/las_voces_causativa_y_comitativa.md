@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 # Las voces causativa y comitativa
