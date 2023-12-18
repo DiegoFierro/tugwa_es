@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Repaso de lo visto hasta ahora
 
 Según su nasalidad, existen dos tipos de raíces: 1) las raíces orales no tienen ningún sonido nasal; y 2) las raíces nasales tienen al menos un sonido nasal, sin importar dónde. Las raíces orales están sujetas a mutaciones iniciales cuando se combinan con una raíz que acaba en sonido nasal.
