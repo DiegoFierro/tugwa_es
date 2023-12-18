@@ -1,0 +1,25 @@
+---
+layout: post
+---
+
+# El estado constructo
+
+En las lenguas tupí-guaraní, algunas raíces sufren un tipo especial de inflexión y pueden tener hasta cuatro formas diferentes. Los estudiosos brasileños las denominan _pluriformes_ y los paraguayos _oscilantes_. La mayoría de las raíces afectadas comienzan con una vocal y reciben hasta tres consonantes diferentes conocidas como "prefijos relacionales".
+
+En tugwá, esta característica aparece mucho más simplificada y regularizada, para que te hagas una idea de cómo funciona. Casi todas las plicas sujetas a este tipo de flexión empiezan por vocal y sólo hay una forma más con el prefijo relacional **r-**, que es la única que funciona regularmente y es idéntica en las tres lenguas de control.
+
+La forma desnuda de la raíz es el estado absoluto y la forma **r** es el estado constructo. El estado constructo se utiliza cuando la raíz está "poseída" por cualquier sustantivo o pronombre ligado que funcione como adjetivo posesivo o pronombre objeto o como sujeto de un verbo estativo.
+
+Así, de ausuba (amor), se obtienen las siguientes construcciones: **xe rausuba** (mi amor), **oré rausuba** (nuestro amor _excl._), **yandé rausuba** (nuestro amor _incl._), **nde rausuba** (tu amor _sing._), **pe rausuba** (su amor (_de ustedes_)), **i rausuba** (su amor), **José rausuba** (el amor de José), **yandé irun rausuba** (el amor de nuestro amigo). En todos estos ejemplos, el constructo **rausuba** significa 'el amor de' y se relaciona con la palabra o frase colocada inmediatamente antes de ella, que funciona como su poseedor.
+
+Del verbo correspondiente **ausub** (amar) obtenemos una conjugación normal con prefijos: **aausub**, **ereausub**, **oausub**, etc. Sin embargo, cuando aparece un pronombre ligado como objeto, se utiliza la flexión constructa: **Ixé nde rausub** (te amo), **Endé xe rausub** (me amas), **Xe rausub endé** (soy amado por ti), **Nde rausub oré** (eres amado por nosotros).
+
+El estado constructo nunca se utiliza con nada incorporado. Todos los sustantivos y prefijos (incluidos los objetos incorporados como **i-**, **oro-** y **opo-**) unidos a la raíz requieren la forma absoluta. Los únicos pronombres que requieren la forma constructa son los ligados
+
+Todas las raíces que sufren la división absoluto-constructo están indicadas en el vocabulario. La única que no empieza por vocal es **gwaya** (cola), cuya forma constructa es **rwaya**, como en la frase **yagwara rwaya** (la cola del perro).
+
+En muchos casos, la distinción entre los dos estados añade precisión a una frase. Compare el ejemplo anterior con **yagwaragwaya** (un perro con una cola extraña), por ejemplo. En ciertos casos, los estados marcan la diferencia entre un adjetivo y un verbo estativo, como en **piraetá** (muchos peces) y **pirá retá** (los peces son muchos, o: hay muchos peces). En el primer caso, **etá** es un adjetivo en composición con el sustantivo **pirá**, indicando pluralidad. En el segundo caso, **retá** es un verbo estativo que toma **pirá** como sujeto. Si sustituyéramos **pirá** por el pronombre ligado correspondiente, tendríamos **i retá** (son muchos, o: hay muchos de ellos).
+
+Otro uso típico del estado constructo es indicar el contenido de un recipiente, como en **urú rupi'a**. La traducción literal de esta frase es "los huevos de un cartón", con la palabra de contenido **upi'a** (huevo) pasando al estado constructo. Pero en español solemos referirnos a esto como "un cartón de huevos", más o menos al revés. Si la palabra de contenido no lleva prefijo relacional, sus formas constructa y absoluta son idénticas: **kamuxí kambí** ("la leche de un vaso" o 'un vaso de leche'), **mana potira** ("las flores de un ramo" o 'un ramo de flores').
+
+Por difícil que parezca a primera vista, el sistema propuesto para el tugwá es mucho más simple que el que había en tupí antiguo y sigue habiendo en guaraní, nheengatu y la mayoría de las demás lenguas tupianas, que por cierto afecta no sólo a sustantivos y verbos, sino también a postposiciones y prefijos. En tugwá, las posposiciones **resé** y **rupí**, por ejemplo, nunca cambian, como tampoco lo hacen los prefijos verbales **mi-** y **ro-**, que eran _emi-_ y _ero-_ en tupí antiguo y tomaban prefijos relacionales. Además, tugwá no hace uso de la forma constructa especial utilizada sólo con los pronombres de 3<sup>ª</sup> persona, que en la mayoría de los casos (pero no siempre) toma **s-** en tupí antiguo y nheengatu, pero **h-** en guaraní. La forma absoluta corresponde a la propia raíz en tugwá, de la misma manera que se usa en los compuestos, aunque comúnmente toma **t-** en otras lenguas tupianas (con varias excepciones que deben aprenderse por separado), que usan tanto la raíz desnuda como la inflexión **t** en los compuestos, dependiendo del caso. Por último, es importante mencionar que en nheengatu hay casos en los que uno de los prefijos relacionales se fusionó con la raíz y ya no se percibe como un afijo. Es el caso de _sendú_, procedente del tupí antiguo _s-endub_ (lo oye), el verbo oír con un objeto de 3<sup>ª</sup> persona incorporado.

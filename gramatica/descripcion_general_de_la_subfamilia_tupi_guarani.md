@@ -1,0 +1,18 @@
+---
+layout: post
+---
+
+
+# Descripción general de la subfamilia tupí-guaraní
+
+La familia lingüística tupí cuenta con una decena de ramas. La más conocida y estudiada es la rama tupí-guaraní, que se hablaba desde el actual Paraguay hasta el estado de Ceará, en el noreste de Brasil, a lo largo de toda la costa atlántica, en la época en que los primeros navegantes europeos llegaron a Sudamérica. Las lenguas más conocidas de la subfamilia tupí-guaraní que se hablan actualmente son el avañe'ẽ y el nheengatu.
+
+El avañe'ẽ o guaraní es una lengua oficial en Paraguay y en algunas provincias o municipios de Argentina, Bolivia y Brasil. Junto con sus dialectos (mbyá, kaiowá, ñandeva, chiriguano, etc.), lo hablan actualmente unos 5 millones de personas, siendo la segunda lengua amerindia más hablada después del quechua. Esta versión moderna del guaraní recibió mucha influencia léxica del español y tiene un sociolecto urbano bastante híbrido llamado jopará, que significa "mezclado". En cuanto a su fonología y gramática, ha conservado la mayoría de las características que documentaron los colonos en el siglo XVI.
+
+El nheengatu, deletreado ñeengatú en las zonas hispanohablantes y también denominado Língua Geral Amazônica o tupí moderno, es oficial en un único municipio brasileño del extremo noroeste, aunque también se habla en pueblos cercanos de Colombia y Venezuela. Se basa en gran medida en el dialecto tupinambá de los indígenas costeros que huyeron de los portugueses hacia el Amazonas a partir de 1560. Su gramática y su léxico están muy influidos por el portugués, y su vocabulario ha recibido préstamos de otras lenguas indígenas de las familias arawak y karib.
+
+El tupí antiguo o clásico, al que pertenecía Tupinambá, está relativamente bien documentado y es actualmente objeto de estudio académico. Llamada inicialmente Lingua Brasilica por los colonos, siguió hablándose hasta el siglo XVIII y se utilizó como lengua litúrgica, desempeñando un papel comparable al que tenía el latín en aquella época. Gracias a los misioneros jesuitas, la lengua de las tribus tupis cuenta con gramáticas descriptivas, abundante literatura religiosa y obras de poesía y teatro.
+
+En el centro y sur de Brasil se hablaba una segunda lengua descendiente del tupí antiguo, denominada Língua Geral Paulista o Tupí Austral. Existe poca documentación al respecto, aunque se sabe que fue la lengua predominante en la zona hasta el siglo XVIII, cuando fue prohibida por la Corona portuguesa. Se extinguió a finales del siglo XIX, cuando la inmigración y la urbanización ayudaron a que prevaleciera la lengua portuguesa. Así, muchos topónimos brasileños muy conocidos hacen uso de esta lengua, que aparentemente mezclaba rasgos fonológicos tanto del tupí como del guaraní.
+
+Otras lenguas y dialectos tupianos siguen siendo hablados por minorías indígenas, que suelen tener unos miles de hablantes, aunque algunos de ellos sólo cuentan con unos pocos cientos y están a punto de extinguirse.
