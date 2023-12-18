@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 # Todo lo que podemos hacer con los verbos
