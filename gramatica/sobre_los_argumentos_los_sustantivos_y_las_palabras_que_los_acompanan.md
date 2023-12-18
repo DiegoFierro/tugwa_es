@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Sobre los argumentos: los sustantivos y las palabras que los acompañan 
 
 Los sustantivos terminan siempre en vocal o en la consonante **n**. La excepcionalidad de la **n** proviene de la opción del tugwá de utilizar esta letra en lugar de la tilde (~) para marcar las vocales nasales -o más bien nasalizadas, ya que la nasalidad es un rasgo opcional en la pronunciación del tugwá.
