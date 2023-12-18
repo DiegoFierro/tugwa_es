@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Palabras interrogativas
 
 Hasta ahora hemos visto algunas palabras interrogativas, y ya es hora de que tengamos una lista con todas ellas: **abá** (quién(es)), **ma'e** (qué), **mamon** (dónde), **maran** (cómo, qué, cuál), **mobí** (cuántos, cuánto).
