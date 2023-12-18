@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Posposiciones
 
 Como la mayoría de las lenguas aglutinantes, el tugwá tiene posposiciones en lugar de preposiciones. Las conjunciones, algunos adverbios, las partículas vocativas e incluso las interjecciones son todas posposiciones, lo que significa que se colocan después del sustantivo o al final de la frase con la que interactúan.
