@@ -1,5 +1,4 @@
 ---
-layout: page
 ---
 
 # Algunos recursos estilísticos
