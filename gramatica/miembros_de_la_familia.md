@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # Miembros de la familia
 
