@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Las voces causativa y comitativa
 
 El prefijo mo- convierte un verbo intransitivo en transitivo. De **kiyé** (temer) obtenemos **mongiyé** (asustar, espantar). De **sik** (llegar) obtenemos **mondik** (entregar, enviar). De por (estar lleno) construimos **mombor** (llenar). Tenga en cuenta que este prefijo provoca una mutación nasal en la raíz, y recuerde que las mutaciones nasales sólo son posibles con raíces orales, es decir, raíces que no tienen sonido nasal. En el caso de **porang** (ser hermoso) y **moporang** (embellecer), la p inicial no se convertirá en **mb**, puesto que la raíz **porang** ya contiene un sonido nasal en otra parte (**ng** al final).
