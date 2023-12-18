@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Sustantivos verbales y oraciones dependientes
 
 En tugwá, los objetos tienen un prefijo derivado especial muy útil para crear nuevas palabras: **mi-**, que también provoca una mutación nasal igual que **mo-**. El verbo **'u** (comer) es transitivo, por lo que su objeto genérico es **mi'u** (comida, o "lo que se come"). Lo que soplamos es **mimbí** (flauta, silbato o cualquier otro instrumento que se sopla), del verbo **pi** (soplar). Lo que damos es **mime'enga** (regalo, donación), de **me'eng** (dar). Lo que plantamos es **mitima** (plantación), de **tim** (enterrar, plantar). Lo que queremos es **mimbotara** (voluntad, ganas, deseo), de **potar** (querer). La antigua palabra tupí para esposa da **xe mirekó** en tugwá, que significa literalmente "a quien poseo". Esto suena bastante sexista hoy en día, así que mejor llama a tu amada **xe miausuba** ("a quien amo"), del verbo **ausub** (amar).
