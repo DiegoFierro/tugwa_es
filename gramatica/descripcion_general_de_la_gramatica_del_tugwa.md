@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Descripción general de la gramática del tugwá
 
 Aparte de las palabras partícula como las posposiciones y los adverbios, existen dos tipos principales de palabras de contenido en tugwá: las que pueden conjugarse (predicados) y las que no (argumentos). Lo más habitual es que ambos tipos se puedan derivar de cada raíz. Cuando la raíz termina en consonante o semiconsonante, la forma argumentativa debe recibir la terminación **-a**. Por ejemplo, la raíz **sem-** significa 'salir' y deriva el predicado **sem** (salir) y el argumento **sema** (salida). Cuando la raíz termina en una vocal acentuada, tanto la forma argumentativa como la predicativa son idénticas. Es el caso de **pe'a**, que se traduce tanto por 'separar' como por 'separación'.
