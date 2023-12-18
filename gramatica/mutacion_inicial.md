@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Mutación inicial
 
 En una palabra compuesta, las raíces que empiezan por las letras **p t s k** y no contienen nasales (**m n ñ**) sufren una mutación inicial cuando van precedidas de una sílaba nasal. Las mutaciones siguen los patrones que se indican a continuación:
