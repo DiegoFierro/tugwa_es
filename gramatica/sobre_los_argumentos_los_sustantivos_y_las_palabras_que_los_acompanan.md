@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 # Sobre los argumentos: los sustantivos y las palabras que los acompañan 
