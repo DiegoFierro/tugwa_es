@@ -1,7 +1,6 @@
 ---
 layout: page
 # title: Donaciones
-menu: main
 ---
 
 Si te gusta este trabajo, puede hacer tus donaciones a través de los siguientes medios:
