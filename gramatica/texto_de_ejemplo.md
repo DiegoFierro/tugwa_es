@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Texto de ejemplo 
 
 Un párrafo traducido del libro Escravidão - volume II, del periodista brasileño Laurentino Gomes, con el texto original en portugués y una versión en español justo debajo:
